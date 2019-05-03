@@ -21,11 +21,14 @@ o	Book appointments: Users will be able to book consultations/shoots with me via
 
 ## Technologies 
 o	JavaScript & Node
+
 o	MySQL
+
 o	Express
 
 ## What I’ll have to learn
 o	JavaScript & Node
+
 o	Express
 
 
