@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume, and provide links to yo
 ## Submission Instructions
  
 ### GitHub
-[GitHub Account] (https://github.com/cat3696)
+[GitHub Account](https://github.com/cat3696)
  
 ### LinkedIn
-[LinkedIn Account] (https://www.linkedin.com/in/caterina-clayton-1a9182180/)
+[LinkedIn Account](https://www.linkedin.com/in/caterina-clayton-1a9182180/)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
