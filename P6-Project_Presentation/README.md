@@ -7,4 +7,4 @@ We want to you to create a set of presentation slides summarizing your project.
 ## Submission Instructions
 
 ### Presentation
-[Project Presentation](https://github.com/cat3696/liftoff-assignments/blob/master/Promotional_Site.pptx)
+[Project Presentation](https://github.com/cat3696/liftoff-assignments/blob/master/Promotional_Site.pdf)
